@@ -16,6 +16,10 @@
       }
     },
     "extensions": [
-      "golang.go"
+      "golang.go",
+      "donjayamanne.githistory",
+      "eamodio.gitlens",
+      "mhutchie.git-graph",
+      "codezombiech.gitignore",
     ],
   }
